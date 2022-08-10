@@ -1,0 +1,11 @@
+.selectedPage {
+    font-weight: 800;
+    color: blue;
+    background-color: darkgoldenrod;
+}
+
+.unselectedPage {
+    font-weight: lighter;
+    margin: 5px;
+
+}

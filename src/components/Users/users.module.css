@@ -1,0 +1,14 @@
+.userPhoto {
+    width: 100px;
+}
+
+
+.selectedPage {
+    font-weight: 800;
+}
+
+
+.unselectedPage {
+    font-weight: lighter;
+    margin: 5px;
+}

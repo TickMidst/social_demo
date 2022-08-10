@@ -1,0 +1,46 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogItems {
+    padding: 10px;
+}
+
+.sent {
+    text-align: left;
+}
+
+.sent img {
+    width: 10px;
+}
+
+
+.recieved {
+    text-align: left;
+}
+
+.dialogItems .active {
+    color: rgb(180, 158, 70);
+}
+
+.dialogItems :any-link {
+    text-decoration: none;
+    color: cornsilk;
+}
+
+
+.dialogItems img {
+    width: 40px;
+    border-radius: 40%;
+}
+
+
+.messages img {
+    width: 20px;
+}
+
+
+.messages {
+    padding: 20px;
+}
